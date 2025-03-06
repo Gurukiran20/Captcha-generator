@@ -28,6 +28,8 @@ The script will display the generated CAPTCHA image and print the CAPTCHA text t
 
 ## Output
 ![Screenshot 2025-03-06 233357](https://github.com/user-attachments/assets/5551857f-2a62-4c75-82aa-2788d039bf45)
+![Screenshot 2025-03-06 233957](https://github.com/user-attachments/assets/29fca9d2-5aca-40bc-8b3c-6533b45ac220)
+
 
 ## conclusion
  This Python script offers a basic, customizable CAPTCHA generator using PIL, suitable for educational purposes. It is not intended for production environments due to its susceptibility to automated attacks. Further development with advanced techniques and libraries is required for secure CAPTCHA implementation.
